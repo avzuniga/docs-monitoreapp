@@ -2,9 +2,10 @@
 
 > Es una aplicación para monitorear respiradores mecanicos de manera remota. Disponible en IOS y ANDROID. 
 
-[¿Como inicio en MONITOREAPP?](inicio.md)
-[Cuenta con un sistema de alarmas](alarmas.md)
-[Panel administrativo Web para los fabricantes de respiradores](panel.md)
-![Imágen de la pantalla principal de AYUDAPP](img/pantalla_principal.jpg)
-[video.mp4](videos/ayudapp.mp4 ':include :type=video controls width=100% height=450px')
-[Inicia sesión en la aplicación y comienza a expĺorar](login.md)
+Si eres un profesional médico, te enseñamos como usar la aplicación móvil 
+[¿Como inicio en MONITOREAPP?](/profesional_medico/login.md)
+
+Si eres un fabricante de respiradores mecanicos, te explicamos como puedes integrarlos con MONITOREAPP
+[Soy fabricante](/fabricante/panel.md)
+
+
