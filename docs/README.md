@@ -6,6 +6,6 @@ Si eres un profesional médico, te enseñamos como usar la aplicación móvil
 [¿Como inicio en MONITOREAPP?](/profesional_salud/login.md)
 
 Si eres un fabricante de respiradores mecanicos, te explicamos como puedes integrarlos con MONITOREAPP
-[Soy fabricante](/fabricante/panel.md)
+[¿Cómo integro mis respiradores?](/fabricante/panel.md)
 
 
