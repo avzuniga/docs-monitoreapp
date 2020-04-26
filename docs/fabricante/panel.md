@@ -1,2 +1,2 @@
-# ¿Cómo integro mis respiradores para usar la MONITOREAPP?
+# Panel administrativo para fabricantes
 
